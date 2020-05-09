@@ -55,5 +55,5 @@ def handle_image_conversion(image_filepath):
 
 if __name__ == '__main__':
     import sys
-    image_filepath = 'C:\\Users\\Abhinav\\OneDrive\\Desktop\\Python\\Python-ASCII-Art\\a.jpg'
+    image_filepath = 'C:\\Users\\Abhinav\\OneDrive\\Desktop\\Python\\Python-ASCII-Art\\images\\nat1.jpg'
     handle_image_conversion(image_filepath)
